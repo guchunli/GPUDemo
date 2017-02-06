@@ -1,4 +1,5 @@
 # GPUDemo
+ 分别使用GPUImage和美颜滤镜实现美颜效果
  参考链接：http://www.jianshu.com/p/4646894245ba
  
  扩展：
